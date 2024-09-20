@@ -1,0 +1,17 @@
+<configuration>
+  <!--数据库配置-->
+  <SysConfig>
+    <DbConnStr>2276824e89911f8cdd1a83a04212c8326d0101965ed351121d252b55369035b7c114ef0611e24bf4b13f4e9b1da919c136d092946d232d1f</DbConnStr>
+  </SysConfig>
+  <!--数据库配置-->
+  <DataBaseConfig>
+    <!--数据库服务器名称-->
+    <Server>90785cd38be5416cf5a896a9750c7d4725a1a074749de9e4</Server>
+    <!--数据库名称-->
+    <DataBase>ef79d8940caef3ca2182ff0432b8b33943229619b244f0a2</DataBase>
+    <!--数据库登录用户名-->
+    <UserID>6f91ab515fb01329b3a51b21fa49fbd8</UserID>
+    <!--数据库登录密码-->
+    <Password>c4b3478e2bdac26b451c39bc17fa8df5f180ceacf6b074f6</Password>
+  </DataBaseConfig>
+</configuration>
